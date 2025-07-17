@@ -13,8 +13,7 @@ yum -y upgrade
 
 参考：[安装Docker](https://support.huaweicloud.com/bestpractice-hce/hce_bp_0002.html)
 
-## ‌二、安装jdk
-
+## ‌三、安装jdk
 
 #### 下载解压
 
@@ -28,7 +27,6 @@ sudo tar -xzf OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.11_9.tar.gz -C /usr/lib/
 # 重命名便于管理
 sudo mv /usr/lib/jvm/jdk-17.0.11+9 /usr/lib/jvm/jdk-17
 ```
-
 
 ### 配置环境变量
 ```bash
