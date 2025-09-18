@@ -21,7 +21,7 @@
 - **Distributed Build:** Supports the master - slave architecture and parallel task execution on multiple nodes, effectively utilizing computing resources.
 - **Visual Process Management:** Supports both declarative and scripted syntax through Groovy DSL - defined pipelines (Pipeline), enabling monitoring of build stages and report generation.
 
-The open - source image product [**Jenkins**]() provided by this project has Jenkins and its related runtime environment pre - installed, and deployment templates are also provided. Refer to the usage guide and easily start an "out - of - the - box" efficient experience!
+The open - source image product [**Jenkins**](https://marketplace.huaweicloud.com/intl/hidden/contents/f825634e-bdab-4c81-be77-6f965e98425a) provided by this project has Jenkins and its related runtime environment pre - installed, and deployment templates are also provided. Refer to the usage guide and easily start an "out - of - the - box" efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
